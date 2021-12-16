@@ -8,7 +8,7 @@ Please note that, due to memory allocation issues, the settings for the Rosenbla
 Below you find a rough estimate of how long you could expect the code to run for each of the noise types. Note however that the code has not been tuned for performance and that the computing time heavily depends on the machine (rough estimates for a Desktop PC (64 Bit-operating system Windows 7, Intel® Core ™ i7-3770 CPU with 3.4 GHz, 16GB RAM))
 <ul>
       <li> Brownian motion: 1 minute </li>
-      <li> Colored noise process:  </li>
+      <li> Colored noise process: 24 minutes </li>
       <li> Fractional Brownian motion: </li>
        <li> Rosenblatt process: </li>
     </ul>
